@@ -8,7 +8,7 @@
    git clone https://github.com/faybit/PractWork1.git
    ```
 2. Собрать проект
-   ```bash
+   ```cmd
    gcc stankoff2.c -o stankoff2
     ```
  3. Переносим файлы на кассету 
